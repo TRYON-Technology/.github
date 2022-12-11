@@ -1,0 +1,69 @@
+labels:
+  - name: bug
+    color: d73a4a
+    description: "Something isn't working"
+    aliases: []
+  - name: "design in progress"
+    color: FBCA04
+    description: null
+    aliases: [test]
+  - name: "design needed"
+    color: E99695
+    description: null
+    aliases: []
+  - name: "design ready"
+    color: D4C5F9
+    description: null
+    aliases: []
+  - name: "Est: 0.5"
+    color: fff2e6
+    description: null
+    aliases: []
+  - name: "Est: 1"
+    color: ffe6cc
+    description: null
+    aliases: []
+  - name: "Est: 2"
+    color: ffd9b3
+    description: null
+    aliases: []
+  - name: "Est: 3"
+    color: ffcc99
+    description: null
+    aliases: []
+  - name: "Est: 4"
+    color: ffbf80
+    description: null
+    aliases: []
+  - name: "Est: 5"
+    color: ffb366
+    description: null
+    aliases: []
+  - name: "for future consideration"
+    color: 96D954
+    description: null
+    aliases: []
+  - name: "help wanted"
+    color: "008672"
+    description: "Extra attention is needed"
+    aliases: []
+  - name: "priority: high"
+    color: E99695
+    description: "Needs to be done ASAP. Has major impact."
+    aliases: []
+  - name: "priority: low"
+    color: c2e0c6
+    description: "Can wait. Has low impact."
+    aliases: []
+  - name: "priority: medium"
+    color: FEF2C0
+    description: "Needs to be done in the near future. Has medium impact."
+    aliases: []
+  - name: "requires review"
+    color: F9D0C4
+    description: "Waiting for approval to be taken for design and/or development."
+    aliases: []
+  - name: "user story"
+    color: DDA0DD
+    description: null
+    aliases: []
