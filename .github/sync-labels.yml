@@ -67,3 +67,7 @@ labels:
     color: DDA0DD
     description: null
     aliases: []
+  - name: testtest
+    color: d73a4a
+    description: "testtest"
+    aliases: []
