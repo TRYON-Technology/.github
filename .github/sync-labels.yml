@@ -2,7 +2,7 @@ labels:
   - name: bug
     color: d73a4a
     description: "Something isn't working"
-    aliases: []
+    aliases: ["super label"]
   - name: "design in progress"
     color: FBCA04
     description: null
@@ -66,8 +66,4 @@ labels:
   - name: "user story"
     color: DDA0DD
     description: null
-    aliases: []
-  - name: "super label"
-    color: FF0000
-    description: "super puper"
     aliases: []
