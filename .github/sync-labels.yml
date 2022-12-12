@@ -67,3 +67,7 @@ labels:
     color: DDA0DD
     description: null
     aliases: []
+  - name: "draft"
+    color: 545454
+    description: null
+    aliases: []
