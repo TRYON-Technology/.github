@@ -67,3 +67,7 @@ labels:
     color: DDA0DD
     description: null
     aliases: []
+  - name: "super label"
+    color: FF0000
+    description: "super puper"
+    aliases: []
